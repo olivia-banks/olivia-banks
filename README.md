@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**IsaccBarker/IsaccBarker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
+    - ZincSoft's CATNET
+    - Greatness .dotfile manager
+    - [This](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+    - How not to scream at the Rust borrow checker
+    - How to write C/C++ after living, laughing, and loving Rust
+- 👯 I’m looking to collaborate on
+    - Projects involving:
+      - Computer communication and cryptography
+      - Userspace helpers
+      - Other projects, just reach out!
 - 🤔 I’m looking for help with ...
+    - Windows. If anyone wants to help with my/ZincSofts projects and have a Windows machine to test on, please reach out!
 - 💬 Ask me about ...
+    - How to create a profile README like this!
+    - My music tastes
+    - Whatever you like!
 - 📫 How to reach me: ...
+    - Official ZincSoft email: milobanks@zincsoft.dev
+    - Reddit: [GoodDimension](reddit.com/u/GoodDimension)
+    - GitHub (duh): [IsaccBarker](github.com/IsaccBarker)
+    - Twitter: [@BanksMilo1](https://twitter.com/BanksMilo1)
 - 😄 Pronouns: ...
+    - Preferably they/he. Whatever works! 😄
 - ⚡ Fun fact: ...
--->
+    - I am a vegitarian
