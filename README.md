@@ -4,6 +4,7 @@
     - ZincSoft's CATNET
     - Greatness .dotfile manager
     - [This](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+    - [And this](https://66.media.tumblr.com/9b625279ab4e6a9be4d46170e021c93f/tumblr_p368z7gJ1v1rk8uumo1_1280.jpg)
 - 🌱 I’m currently learning ...
     - How not to scream at the Rust borrow checker
     - How to write C/C++ after living, laughing, and loving Rust
