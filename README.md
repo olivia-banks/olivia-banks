@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=IsaccBarker&style=flat-square)
+Since June 22, 2021, I have had ![](https://komarev.com/ghpvc/?username=IsaccBarker&style=flat-square)!
 - 🔭 I’m currently working on ...
     - ZincSoft's CATNET
     - Greatness .dotfile manager
@@ -8,13 +8,6 @@
 - 🌱 I’m currently learning ...
     - How not to scream at the Rust borrow checker
     - How to write C/C++ after living, laughing, and loving Rust
-- 👯 I’m looking to collaborate on
-    - Projects involving:
-      - Computer communication and cryptography
-      - Userspace helpers
-      - Other projects, just reach out!
-- 🤔 I’m looking for help with ...
-    - Windows. If anyone wants to help with my/ZincSofts projects and have a Windows machine to test on, please reach out!
 - 💬 Ask me about ...
     - How to create a profile README like this!
     - My music tastes
