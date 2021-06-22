@@ -17,6 +17,7 @@ Since June 22, 2021, I have had ![](https://komarev.com/ghpvc/?username=IsaccBar
     - Reddit: [GoodDimension](reddit.com/u/GoodDimension)
     - GitHub (duh): [IsaccBarker](github.com/IsaccBarker)
     - Twitter: [@BanksMilo1](https://twitter.com/BanksMilo1)
+    - Spotify: (XTBP)[https://open.spotify.com/user/ff6qgu2bo79vlb27e00vwwabi]
 - 😄 Pronouns: ...
     - Preferably they/he. Whatever works! 😄
 - ⚡ Fun fact: ...
