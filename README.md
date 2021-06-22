@@ -1,5 +1,5 @@
 ### Hi there 👋
-Since June 22, 2021, I have had ![](https://komarev.com/ghpvc/?username=IsaccBarker&style=flat-square)!
+Since June 22, 2021, I have had ![](https://komarev.com/ghpvc/?username=IsaccBarker&style=flat-square)! I am self taught, and have been programming seriously since 2017. My code quality has improved a lot, but I still have a long way to go!
 - 🔭 I’m currently working on ...
     - ZincSoft's CATNET
     - Greatness .dotfile manager
