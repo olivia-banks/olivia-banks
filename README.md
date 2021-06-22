@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=IsaccBarker&style=flat-square)
 - 🔭 I’m currently working on ...
     - ZincSoft's CATNET
     - Greatness .dotfile manager
