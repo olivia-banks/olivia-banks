@@ -20,7 +20,7 @@ I am self taught, and have been programming seriously since 2017. My code qualit
 ## 🕓 My statistics ...
 <p align="center">
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=IsaccBarker&show_icons=true&count_private=true&theme=gruvbox">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaccBarker&&hide=javascript,html,css,cmake,go&layout=compact&theme=gruvbox">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaccBarker&&hide=javascript,html,css,cmake&layout=compact&theme=gruvbox">
     <br>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?layout=compact&theme=gruvbox&username=IsaccBarker">
 </p>
