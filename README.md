@@ -3,8 +3,31 @@
     <img src="https://forthebadge.com/images/badges/made-with-crayons.svg">
 </p>
 
-I am self taught, and have been programming seriously since 2017. My code quality has improved a lot, but I still have a long way to go!
-## 📙 Technologies I work with:
+Holy shit, a lot has happened since April and now. I'm ready to get back into the game, and then probably get right back out, when it gets bad again.
+
+---
+
+## I’m currently working on ...
+- RHDB's GOMP
+<img src="https://github.com/rhdb/gomp/raw/main/assets/logo/gomp.png">
+
+- Rowlandhall's FTC Robot Software
+
+- [This](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+---
+
+## My statistics ...
+<p align="center">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=IsaccBarker&show_icons=true&count_private=true&theme=gruvbox">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaccBarker&&hide=javascript,html,css,cmake&layout=compact&theme=gruvbox">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?layout=compact&theme=gruvbox&username=IsaccBarker">
+</p>
+
+---
+
+## Technologies ...
 <p align="center">
     <img src="https://img.shields.io/badge/c++-%23F34B7D.svg?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/c-%23555555.svg?style=for-the-badge&labelColor=black&logo=c&logoColor=white">
@@ -16,33 +39,3 @@ I am self taught, and have been programming seriously since 2017. My code qualit
     <img src="https://img.shields.io/badge/linux-%230099CC.svg?style=for-the-badge&labelColor=black&logo=linux&logoColor=white">
     <img src="https://img.shields.io/badge/mac os-%23FF2D56.svg?style=for-the-badge&labelColor=black&logo=apple&logoColor=white">
 </p>
-
-## 🕓 My statistics ...
-<p align="center">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=IsaccBarker&show_icons=true&count_private=true&theme=gruvbox">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaccBarker&&hide=javascript,html,css,cmake&layout=compact&theme=gruvbox">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?layout=compact&theme=gruvbox&username=IsaccBarker">
-</p>
-
-## 🔭 I’m currently working on ...
-- RHDB's GOMP
-<img src="https://github.com/rhdb/gomp/raw/main/assets/logo/gomp.png">
-
-- Rowlandhall's FTC Robot Software
-
-- [This](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-## 🌱 I’m currently learning ...
-- How not to scream at the Rust borrow checker
-- How to write C/C++ after living, laughing, and loving Rust
-## 💬 Ask me about ...
-- How to create a profile README like this!
-- My music tastes
-- Whatever you like!
-## 📫 How to reach me: ...
-- Official ZincSoft email: milobanks@zincsoft.dev, Reddit: [GoodDimension](reddit.com/u/GoodDimension), GitHub (duh): [IsaccBarker](github.com/IsaccBarker), Twitter: [@BanksMilo1](https://twitter.com/BanksMilo1), Spotify: [XTBP](https://open.spotify.com/user/ff6qgu2bo79vlb27e00vwwabi)
-## 😄 Pronouns: ...
-- Preferably *they/he*. Whatever works! 😄
-## ⚡ Fun fact: ...
-- I am a vegitarian
