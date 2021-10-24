@@ -26,11 +26,10 @@ I am self taught, and have been programming seriously since 2017. My code qualit
 </p>
 
 ## 🔭 I’m currently working on ...
-- ZincSoft's CATNET
-<img src="https://raw.githubusercontent.com/ZincSoft/CATNET/main/assets/logo.png">
+- RHDB's GOMP
+<img src="https://github.com/rhdb/gomp/raw/main/assets/logo/gomp.png">
 
-- Greatness .dotfile manager
-<img src="https://raw.githubusercontent.com/IsaccBarker/Greatness/main/assets/greatness.png">
+- Rowlandhall's FTC Robot Software
 
 - [This](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
