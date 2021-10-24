@@ -1,8 +1,3 @@
-# Hi! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-<p align="center">
-    <img src="https://forthebadge.com/images/badges/made-with-crayons.svg">
-</p>
-
 Holy shit, a lot has happened since April and now. I'm ready to get back into the game, and then probably get right back out, when it gets bad again.
 
 ---
