@@ -17,7 +17,6 @@ Holy shit, a lot has happened since April and now. I'm ready to get back into th
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=IsaccBarker&show_icons=true&count_private=true&theme=gruvbox">
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaccBarker&&hide=javascript,html,css,cmake&layout=compact&theme=gruvbox">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?layout=compact&theme=gruvbox&username=IsaccBarker">
 </p>
 
 ---
