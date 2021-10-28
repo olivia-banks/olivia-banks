@@ -1,4 +1,4 @@
-Holy shit, a lot has happened since April and now. I'm ready to get back into the game, and then probably get right back out, when it gets bad again.
+Never trust the month of April.
 
 ---
 
