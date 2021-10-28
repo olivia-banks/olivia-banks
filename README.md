@@ -6,7 +6,7 @@ Holy shit, a lot has happened since April and now. I'm ready to get back into th
 - RHDB's GOMP
 <img src="https://github.com/rhdb/gomp/raw/main/assets/logo/gomp.png">
 
-- Rowlandhall's FTC Robot Software
+- Rowland Hall's FTC Robot Software
 
 - [This](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
