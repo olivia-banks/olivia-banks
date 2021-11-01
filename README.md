@@ -3,8 +3,7 @@ Never trust the month of April.
 ---
 
 ## I’m currently working on ...
-- RHDB's GOMP
-<img src="https://github.com/rhdb/gomp/raw/main/assets/logo/gomp.png">
+- My own kernel (for educational purposes, nothing fancy). :)
 
 - Rowland Hall's FTC Robot Software
 
