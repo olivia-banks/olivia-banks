@@ -1,5 +1,3 @@
-Don't bother me in my library cubical if I'm reading a academic study. It's probaby private.
-
 <!-- Never trust the month of April.
 
 ---
@@ -35,3 +33,5 @@ Don't bother me in my library cubical if I'm reading a academic study. It's prob
     <img src="https://img.shields.io/badge/linux-%230099CC.svg?style=for-the-badge&labelColor=black&logo=linux&logoColor=white">
     <img src="https://img.shields.io/badge/mac os-%23FF2D56.svg?style=for-the-badge&labelColor=black&logo=apple&logoColor=white">
 </p>
+
+<sub><sup>Don't bother me in my library cubical if I'm reading a study. It's probaby private.</sup></sub>
