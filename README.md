@@ -20,6 +20,8 @@ I prefer to use Linux (typically Arch Linux, with custom compiled kernel, stdlib
 
 
 ## Statistics
+These don't update that often (haven't gotten around to spinning up my own Vercel instance). It's also worth noting that starting March 13, 2022, I have set my contribution counter up to acutally count my commits. Strange it wasn't already...
+
 <p align="center">
     <img width=65% src="https://github-readme-stats.vercel.app/api/wakatime?username=isaccbarker&&hide=javascript,html,css,cmake,Nginx%20Configuration%20File,markdown,groovy,text,properties,sql,matlab,systemd,yaml,json,bc,xml,csv,ini,PacmanConf,Other,viml,Image%20%28jpeg%29,crontab,zsh&layout=compact&theme=dark">
     <br>
