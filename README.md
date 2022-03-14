@@ -18,9 +18,11 @@
 
 ---
 
-My humble adobe. High-school CS student. Graduating class of 2025 (drawing ever nearer. Not sure how I feel about this).
+My humble adobe. High-school CS student. Graduating class of 2025 (drawing ever nearer; not sure how I feel about this).
 
-I tend to keep my own opinions (even if I do sometimes come of as insistant that others use them). Rust is my favorite language, with it's memory safety and the like. C is a nice change of pace, and to peer even deeper under the hood. C++ is a clusterfuck. Java is less so, but it's ecosystem is even more so.
+I tend to keep my own opinions (even if I do sometimes come of as insistant that others use them). I like what's under the hood. What's the point of using it if you can't fix it? Take the example of a fancy car: if you buy it, and it breaks down, then you have to pay a lot of money to get it repaired. If instead you work up the nerve to try it yourself (without blowing up the car), then you're out a fraction of the money.
+
+Most others do not share this sentiment, and for good reason. If you are just doing basic ML, you don't need to learn how Tensorflow works on the inside. Unless you really want to squeeze out all the functionality you can. *Then*, you need to look under the hood, or look online.
 
 I prefer to use Linux (typically Arch Linux, with custom compiled kernel, stdlib, etc...), but MacOS typically sufices.
 
