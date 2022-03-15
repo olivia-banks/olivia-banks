@@ -12,7 +12,7 @@
 ---
 -->
 
-# Student, Programmar, Humanitarian, Systems Engineer*
+# Student, Programmar, Humanitarian, Systems Programmer*
 
 \* Not yet, but I plan to get an internship, and eventually a job.
 
