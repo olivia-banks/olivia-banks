@@ -30,6 +30,6 @@ I prefer to use Linux (typically Arch Linux, with custom compiled kernel, stdlib
 
 <p align="center">
     <img width=65% src="https://github-readme-stats.vercel.app/api?username=isaccbarker&show_icons=true&theme=radical">
-    <img width=65% src="https://github-readme-stats.vercel.app/api/wakatime?username=isaccbarker&&hide=javascript,html,css,cmake,Nginx%20Configuration%20File,markdown,groovy,text,properties,sql,matlab,systemd,yaml,json,bc,xml,csv,ini,PacmanConf,Other,viml,Image%20%28jpeg%29,crontab,zsh,swift,objective-c,meson,protocol%20buffer,common%20lisp&layout=compact&theme=radical">
+    <img width=65% src="https://github-readme-stats.vercel.app/api/wakatime?username=isaccbarker&&hide=javascript,html,css,cmake,Nginx%20Configuration%20File,markdown,groovy,text,properties,tmux,sql,matlab,systemd,yaml,json,bc,xml,csv,ini,PacmanConf,Other,viml,Image%20%28jpeg%29,crontab,zsh,swift,objective-c,meson,protocol%20buffer,common%20lisp&layout=compact&theme=radical">
 </p>
 <!-- </p> -->
