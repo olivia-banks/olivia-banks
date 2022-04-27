@@ -12,7 +12,7 @@
 ---
 -->
 
-# Student, Programmar, Humanitarian, Computer and Medicine Enthusiast
+# Student, Programmar, Computer and Medicine Enthusiast
 
 ---
 
