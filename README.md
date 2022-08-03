@@ -21,7 +21,7 @@ My humble adobe. High-school CS student. Graduating class of 2025 (drawing ever 
 As time passes and I get better at what I do, I've noticed a disturbing side effect of the "learn to code" movement. Many people think that because they can code, they're suddenly experts in everything related to computers. This is not only untrue, but it's also dangerous. I absolutely do not mean everybody, but most are content at doing what they were taught, most likely basic AI with TensorFlow/PyTorch or Front End (with the endless new frameworks that come with it). How these people go about this (which isn't their fault, it's the fault of the education they received) is not good enough as it currently stands.
 
 
-### Thinking for yourselve:
+### Thinking for yourself:
 
 To make real progress in the field of computing, we need to be able to think for ourselves. We need to be able to question the status quo, explore new ideas and be unafraid of failure. We need to be able to do more than just code. This is part of the reason I dislike the term code. Not only does it perpetuate the populate misconception of unavoidable esotericism within computer science, but it also implies that it doesn't require as much thought or effort as it actually does. The word coding seems like you are encoding something. As such, you'd check it against a sheet or (most likely in today's cyber security ecosystem) run it through an algorithm. Word coding suggests that a one-to-one representation is a terrible analogy when applied to programming. Programming is about problem-solving; typing out instructions is just a formality.
 
