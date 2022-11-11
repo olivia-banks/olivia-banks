@@ -12,12 +12,19 @@
 ---
 -->
 
-# My humble abode.
+# Welcome!
 
-My humble adobe. High-school CS student. Graduating class of 2025 (drawing ever nearer; not sure how I feel about this). I prefer to use Linux (typically Arch Linux, with custom compiled kernel, stdlib, etc...), but MacOS typically sufices.
+My humble adobe. High-school CS student. Graduating class of 2025 (drawing ever nearer; not sure how I feel about this). I prefer to use Linux but MacOS typically sufices.
+
+Recently got into kernel hacking, loving it. I thought it would be a *lot* harder.
 
 ---
 
+## My beliefs
+
+<details>
+<summary>The "manifesto".</summary>
+<br>
 As time passes and I get better at what I do, I've noticed a disturbing side effect of the "learn to code" movement. Many people think that because they can code, they're suddenly experts in everything related to computers. This is not only untrue, but it's also dangerous. I absolutely do not mean everybody, but most are content at doing what they were taught, most likely basic AI with TensorFlow/PyTorch or Front End (with the endless new frameworks that come with it). How these people go about this (which isn't their fault, it's the fault of the education they received) is not good enough as it currently stands.
 
 
@@ -63,6 +70,7 @@ I may add more sections to the manifesto in the future if I feel like it, but he
 5. Be patient. Computing is a complex field, and it takes time to learn everything. Be patient in your efforts, and don't try to learn everything at once.
 6. Be respectful. Computing is a global field, and we need to respect the cultures and traditions of other countries. Be respectful of other people's opinions, and be willing to learn from them.
 7. Be ethical. Computing can be used for good or evil, and it is up to us to use it for the good of humanity. Be ethical in your thinking and in your actions. These principles are by no means exhaustive, but they are a good starting point for anybody who wants to be a both morally and personally successful engineer.
+</details>
 
 ---
 
