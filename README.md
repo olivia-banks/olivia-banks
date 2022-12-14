@@ -16,8 +16,12 @@
 
 Welcome! April (the month) can die.
 
+---
+
+![Denmark at Night](https://i.imgur.com/EWe3ldp.jpeg)
 
 ---
+
 # Statistics
 I'm on medical leave from school, so hopefully I can get these up!
 
