@@ -17,7 +17,7 @@
 Welcome! April (the month) can die.
 
 <p align="center">
-<img width="65%" src="https://streak-stats.demolab.com?user=IsaccBarker&theme=github-dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats">
+<img width="65%" src="https://streak-stats.demolab.com?user=IsaccBarker&theme=github-dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D">
 </p>
 
 ---
