@@ -22,7 +22,9 @@
 
 ![Denmark at Night](https://i.imgur.com/EWe3ldp.jpeg)
 
-That's Denmark at night! Woo hoo!
+That's Denmark at night!
+
+The Last of Us on HBO is fucking awesome.
 
 <!-- TOOD: Add back once Helix receives plugin support so I can hook up wakatime. ---
 
