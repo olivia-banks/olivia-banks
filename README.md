@@ -24,7 +24,7 @@
 
 That's Denmark at night!
 
-The Last of Us on HBO is fucking awesome.
+[Jello](https://www.eater.com/23547001/ken-albala-the-great-gelatin-revival-book-q-and-a-jelly-cake-aspic-trend-jell-o?utm_source=pocket-newtab).
 
 <!-- TOOD: Add back once Helix receives plugin support so I can hook up wakatime. ---
 
