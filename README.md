@@ -52,7 +52,7 @@ I will use GitHub now and again to contribute to various projects, as well as to
 - [**IPSD**](https://github.com/UofUEpiBio/IPSD) – Sandboxed remote execution server for software demos. (**lead developer**)
 
 ### Miscellaneous Contributions
-- [**Zig**](https://github.com/zigland/zig) – Contributed to the Zig programming language.
+- [**Zig**](https://github.com/ziglang/zig) – Contributed to the Zig programming language.
 - [**Awesome C**](https://github.com/oz123/awesome-c) – Curated list of awesome C resources.
 - [**FTC Robot Controller**](https://github.com/FirstTechChallenge/ftcrobotcontroller) – Android-based robotics control system for the FIRST Tech Challenge.
 - [**Fortune Mod**](https://github.com/shlomif/fortune-mod) – Collection of fortune cookie-style quotes.
