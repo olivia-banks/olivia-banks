@@ -4,7 +4,7 @@ scientific simulation software, bindings, unit tests, and continuous integration
 solutions. Outside of the professional sphere, I'm proficient in Rust, Zig, Lua,
 and Perl. I've worked with Linux, macOS, and various BSDs.
 
-This is my website, where I share my projects and things that I've done.
+This is my GitHub account, where I work, keep mirrors of projects I work on, and contribute to various open source projects.
 
 # Personal Projects
 
