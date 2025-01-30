@@ -1,8 +1,9 @@
 Hey, I'm Milo. I'm an applications and systems developer, with professional
 experience in C, C++, and Python. At my current job, I maintain interfaces to
 scientific simulation software, bindings, unit tests, and continuous integration
-solutions. Outside of the professional sphere, I'm proficient in Rust, Zig, Lua,
-and Perl. I've worked with Linux, macOS, and various BSDs.
+solutions. Outside of the professional sphere, I'm proficient in Rust, and am
+familiar with Kotlin, Java, Lua, R, and HTML. I've worked with Linux, macOS,
+and various BSDs.
 
 This is my GitHub account, where I work, keep mirrors of projects I work on, and contribute to various open source projects.
 
