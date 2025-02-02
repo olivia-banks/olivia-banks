@@ -1,4 +1,4 @@
-name: Sync README with Website
+name: Mirror Website Content
 
 on:
   schedule:
