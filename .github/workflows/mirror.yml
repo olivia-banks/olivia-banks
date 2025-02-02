@@ -40,5 +40,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Automated update: Sync README.md with website (content adjusted)"
+          git commit -m "[auto] [mirror] fetch website readme"
           git push
