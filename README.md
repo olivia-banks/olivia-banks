@@ -2,7 +2,7 @@ Hey, I'm Milo. I'm an applications and systems developer, with professional
 experience in C, C++, and Python. At my current job, I maintain interfaces to
 scientific simulation software, bindings, unit tests, and continuous integration
 solutions. Outside of the professional sphere, I'm proficient in Rust, and am
-familiar with Kotlin, Java, Lua, R, and HTML. I've worked with Linux, macOS,
+familiar with C#, Kotlin, Java, Lua, R, and HTML. I've worked with Linux, macOS,
 and various BSDs.
 
 This is my GitHub account, where I work, keep mirrors of projects I work on, and contribute to various open source projects.
@@ -11,24 +11,23 @@ This is my GitHub account, where I work, keep mirrors of projects I work on, and
 
 I've moved over to [SourceHut](https://sr.ht/~milobanks), and don't use this account much anymore. Mirrors are maintainted for projects I care more about. This is not a full list of all my personal projects, only the ones I would like to showcase here.
 
+- [**Koi**](https://git.sr.ht/~milobanks/koi) ([GitHub Mirror](https://github.com/milobanks/koi)) -
+  A compiler and full toolchain, written in C, featuring a custom, experimental backend architecture.
+
 - [**Ook**](https://git.sr.ht/~milobanks/ook) ([GitHub Mirror](https://github.com/milobanks/ook)) -
-  An investigative object-oriented kernel, written in C++. *(complete)*
+  An investigative object-oriented kernel, written in C++.
 
 - [**Kojiki**](https://git.sr.ht/~milobanks/kojiki) ([GitHub Mirror](https://github.com/milobanks/kojiki)) -
-  A tool for converting GNU Makefiles to Ninja build files for faster iterative builds, written in C. *(complete)*
-
-- [**Koi**](https://git.sr.ht/~milobanks/koi) ([GitHub Mirror](https://github.com/milobanks/koi)) -
-  A compiler and full toolchain, written in C, featuring a custom, experimental backend architecture. *(in progress)*
+  A tool for converting GNU Makefiles to Ninja build files for faster iterative builds, written in C.
 
 - [**Sprite**](https://git.sr.ht/~milobanks/sprite) ([GitHub Mirror](https://github.com/milobanks/sprite)) -
-  A revival and modernization of the Sprite operating system originally developed at UC Berkeley. *(in progress)*
+  A revival and modernization of the Sprite operating system originally developed at UC Berkeley.
 
 ## Less Notable Projects
 
 - [fxsdump](https://git.sr.ht/~milobanks/fxsdump) - Utility to dump Firefox Memory Core files to JSON.
 - [face2ppm](https://git.sr.ht/~milobanks/face2ppm) - Utility to convert FaceSave files into the PPM format.
 - [no-orm-sqlite-rust](https://git.sr.ht/~milobanks/no-orm-sqlite-rust) - Example (for a friend) of using SQLite, without an ORM, with Rust.
-- [SCVS](https://git.sr.ht/~milobanks/scvs) - Utility for dealing with old Sprite SCVS repositories.
 
 # Projects I’ve Contributed To
 
@@ -52,6 +51,7 @@ I will use GitHub now and again to contribute to various projects, as well as to
 - [**Meson WrapDB**](https://github.com/mesonbuild/wrapdb) – Package management for the Meson build system.
 
 ## Programming Utilities & Libraries
+- [**bindutil**](https://github.com/UofUEpiBio/bindutil) - Binding compliance checker for C++, Python, and R. (**lead developer**)
 - [**hashmap.c**](https://github.com/tidwall/hashmap.c) – A simple and efficient C hashmap implementation.
 - [**RapidAssist**](https://github.com/end2endzone/RapidAssist) – Utility library for C++ development.
 - [**SNAFU**](https://github.com/shepmaster/snafu) – Error handling library for Rust.
