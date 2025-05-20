@@ -14,9 +14,6 @@ I've moved over to [SourceHut](https://sr.ht/~milobanks), and don't use this acc
 - [**Ook**](https://git.sr.ht/~milobanks/ook) ([GitHub Mirror](https://github.com/milobanks/ook)) -
   An investigative object-oriented kernel, written in C++. *(complete)*
 
-- [**Kojiki**](https://git.sr.ht/~milobanks/kojiki) ([GitHub Mirror](https://github.com/milobanks/kojiki)) -
-  A tool for converting GNU Makefiles to Ninja build files for faster iterative builds, written in C. *(complete)*
-
 - [**Koi**](https://git.sr.ht/~milobanks/koi) ([GitHub Mirror](https://github.com/milobanks/koi)) -
   A compiler and full toolchain, written in C, featuring a custom, experimental backend architecture. *(in progress)*
 
@@ -28,6 +25,7 @@ I've moved over to [SourceHut](https://sr.ht/~milobanks), and don't use this acc
 
 ## Less Notable Projects
 
+- [kojiki](https://git.sr.ht/~milobanks/kojiki) - Tool for converting GNU Makefiles to Ninja build files.
 - [fxsdump](https://git.sr.ht/~milobanks/fxsdump) - Utility to dump Firefox Memory Core files to JSON.
 - [face2ppm](https://git.sr.ht/~milobanks/face2ppm) - Utility to convert FaceSave files into the PPM format.
 - [no-orm-sqlite-rust](https://git.sr.ht/~milobanks/no-orm-sqlite-rust) - Example (for a friend) of using SQLite, without an ORM, with Rust.
