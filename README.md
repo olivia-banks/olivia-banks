@@ -28,6 +28,7 @@ I've moved over to [SourceHut](https://sr.ht/~milobanks), and don't use this acc
 - [fxsdump](https://git.sr.ht/~milobanks/fxsdump) - Utility to dump Firefox Memory Core files to JSON.
 - [face2ppm](https://git.sr.ht/~milobanks/face2ppm) - Utility to convert FaceSave files into the PPM format.
 - [no-orm-sqlite-rust](https://git.sr.ht/~milobanks/no-orm-sqlite-rust) - Example (for a friend) of using SQLite, without an ORM, with Rust.
+- [SCVS](https://git.sr.ht/~milobanks/scvs) - Utility for dealing with old Sprite SCVS repositories.
 
 # Projects I’ve Contributed To
 
