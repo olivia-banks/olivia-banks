@@ -18,7 +18,7 @@ jobs:
         run: curl -sS -o index.md https://git.sr.ht/~oliviabanks/oliviactl.net/blob/main/content/index.md
 
       - name: Normalize markdown
-        run: sed -i '1{/^---$/,/^---$/d}' index.md
+        run: perl -0777 -pi -e 's/\A---\n.*?\n---\n//s' index.md
         
       - name: Compare with README.md
         id: check_diff
