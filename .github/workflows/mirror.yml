@@ -2,8 +2,8 @@ name: Mirror Website Content
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight UTC
-  workflow_dispatch:  # Allows manual execution
+    - cron: "0 0 * * *" 
+  workflow_dispatch: 
 
 jobs:
   sync_readme:
@@ -15,12 +15,8 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Fetch index.md from website
-        run: curl -sS -o index.md https://milobanks.com/index.md
-
-      - name: Modify Content
-        run: |
-          sed -i 's|This is my website, where I share my projects and things that I'\''ve done.|This is my GitHub account, where I work, keep mirrors of projects I work on, and contribute to various open source projects.|' index.md
-
+        run: curl -sS -o index.md https://oliviactl.net/index.md
+        
       - name: Compare with README.md
         id: check_diff
         run: |
