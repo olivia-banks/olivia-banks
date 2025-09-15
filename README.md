@@ -1,7 +1,3 @@
-title: Welcome
-date: 2025-01-29
-type: index
----
 Hey, I'm Olivia. I'm an applications and systems developer with professional experience in C, C++, and Python. In my current role, I maintain interfaces to scientific simulation software, write code-generation and analysis tooling, and support testing and CI pipelines.
 
 Beyond work, I’m proficient in Rust and and have worked with Kotlin, Java, Lua, OCaml, R, and web technologies in research and project settings. I work comfortably across Linux, macOS, and BSD systems.
