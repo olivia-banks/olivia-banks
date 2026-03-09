@@ -1,7 +1,7 @@
 Hey, I'm Olivia. I'm an applications and systems developer with professional experience in C, C++,
-and Python. I also work with Perl and R (especially for bioinformatics), Lua, OCaml, Java, Kotlin,
+and Python. I also work with Perl and R (especially for bioinformatics), Lua, OCaml, Java,
 and a handful of other languages. On the web side, I've used Svelte, HTMX, and Hyperscript in both
-research and professional projects. I'm comfortable across Linux, macOS, and BSD systems,
+research and professional projects. I'm comfortable across Linux, macOS, and BSD platforms,
 particularly in low-level and systems work.
 
 In my current role, I maintain epidemiological simulation software for the CDC's ForeSITE disease
