@@ -15,6 +15,5 @@ I am currently an honors student at the University of Utah, pursuing a dual unde
 in computer science and molecular biology.
 
 You can find me on [SourceHut](https://sr.ht/~oliviabanks) and [GitHub](https://github.com/olivia-banks).
-I'm also on [Stack Overflow](https://stackoverflow.com/users/11657235/olivia-banks), and sometimes
-talk on [the orange site](https://news.ycombinator.com/threads?id=olivia-banks).
+I sometimes talk on [the orange site](https://news.ycombinator.com/threads?id=olivia-banks).
 
