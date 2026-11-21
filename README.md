@@ -1,19 +1,60 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>git.sr.ht</title>
+    
+    
+    <link rel="icon" type="image/svg+xml" href="/static/logo.svg" />
+    <link rel="icon" type="image/png" href="/static/logo.png" sizes="any" />
+    
+    <link rel="stylesheet" href="/static/git.sr.ht/main.min.f12a449f.css">
+    
+    
+    
+    
+  </head>
+  <body>
+    
+    
+    
+    
+    <nav class="container navbar navbar-light navbar-expand-sm">
+      
+<span class="navbar-brand">
+  <span class="icon icon-circle " aria-hidden="true"><svg width="22" height="22" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200z"/></svg>
+</span>
+  <a href="https://sr.ht">
+    sourcehut
+  </a>
+</span>
 
-Hey, I'm Olivia. I work in public health, writing HPC C/C++ with data analysis in R and Python.
-In my current role, I help maintain software behind ForeSITE and UT-NEDSS (EpiTrax), and work
-in network-driven speculative outbreak analysis and prediction.
+<ul class="navbar-nav">
+  
+</ul>
+<div class="login">
+  
+  <span class="navbar-text">
+    
+    <a href="https://meta.sr.ht/login?return_to=https%3A%2F%2Fgit.sr.ht%2F~oliviabanks%2Foliviactl.net%2Fblob%2Fmain%2Fcontent%2Findex.md%3F" rel="nofollow">Log in</a>
+    &mdash;
+    <a href="https://meta.sr.ht">Register</a>
+    
+  </span>
+  
+</div>
+    </nav>
+    
+     
+<div class="container">
+  <h2>500 Internal Error</h2>
+  <!-- Note: this is not a typo -->
+  <p>Something got borken. Sorry about that.</p>
+</div>
 
-On the academic side, I've presented research on the recurence of ductal carcinoma in situ (DCIS)
-at the American Association for Cancer Research's (AACR) annual conference in Chicago (2025). I've
-also done statistical analysis and modeling work for other research groups in the cancer research
-field, and have been included in their work.
-
-Outside of work, I songwrite, and (used to) play guitar. I enjoy running, hiking, and camping. I'd
-love to get back into backcountry skiing, if it weren't so expensive!
-
-I am currently an honors student at the University of Utah, pursuing a dual undergraduate degree
-in computer science and molecular biology.
-
-You can find me on [SourceHut](https://sr.ht/~oliviabanks) and [GitHub](https://github.com/olivia-banks).
-I sometimes talk on [the orange site](https://news.ycombinator.com/threads?id=olivia-banks).
-
+    
+    
+  </body>
+</html>
